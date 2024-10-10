@@ -12,6 +12,9 @@ nav {
 }
 
 .navSection {
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
   width: 90%;
   height: inherit;
   display: flex;
